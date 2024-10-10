@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+img{
+  border-radius:32px ;
+  width:300px;
+}
+body {
+text-align:center; 
+}
